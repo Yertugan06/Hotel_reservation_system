@@ -6,7 +6,7 @@ Features
 
 1.Change Room Prices:
 
-  Update the price for different time durations (24 hours, 12 hours, 1 hour).
+         Update the price for different time durations (24 hours, 12 hours, 1 hour).
 
 2.Reserve Rooms:
 
