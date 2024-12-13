@@ -31,7 +31,7 @@ public class Main {
         hotel.free_the_room("12:00", "16:00", 1);
         hotel.get_price("12:00", "16:00");
         hotel.get_price_list();
-        hotel.needed_hours("12:00", "16:00");
+        System.out.println(hotel.needed_hours("12:00", "01:00"));
         hotel.change_price(1, 1600);
         hotel.change_price(2, 1600);
         hotel.get_room_detailes(5);
