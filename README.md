@@ -4,30 +4,30 @@ The Hotel Reservation System is a Java application designed to simplify the mana
 
 Features
 
-Change Room Prices:
+1.Change Room Prices:
 
 Update the price for different time durations (24 hours, 12 hours, 1 hour).
 
-Reserve Rooms:
+2.Reserve Rooms:
 
 Book rooms for specific time slots.
 
-Check Available Rooms:
+3.Check Available Rooms:
 
 View a list of rooms available for a given time range.
 
-Get Room Details:
+4.Get Room Details:
 
 Retrieve guest details, such as name and phone number, for a specific room.
 
-Calculate Room Prices:
+5.Calculate Room Prices:
 
 Automatically compute the total price for a stay based on its duration.
 
-Free Rooms:
+6.Free Rooms:
 
 Mark rooms as free when guests check out.
 
-View Price List:
+7.View Price List:
 
 Display the current pricing for various time durations.
