@@ -1,5 +1,5 @@
 # Hotel_reservation_system
-# Overview
+
 The Hotel_reservation_system class is a Java application designed to manage hotel room reservations, including functionalities like booking rooms, checking availability, changing prices, and retrieving room details.
 
 Features
