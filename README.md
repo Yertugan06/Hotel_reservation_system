@@ -1,33 +1,27 @@
-# Hotel_reservation_system
+# Hotel Reservation System
 
-The Hotel Reservation System is a Java application designed to simplify the management of hotel room reservations. This system offers features such as booking rooms, checking availability, changing prices, and retrieving guest details for specific rooms.
+A simple Java project to manage hotel reservations.
 
-Features
+## Features
 
-1.Change Room Prices:
+- Book and manage hotel rooms
+- Track room availability and guest information
+- Set and update room prices
 
-         Update the price for different time durations (24 hours, 12 hours, 1 hour).
+## Classes
 
-2.Reserve Rooms:
+### HotelReservationSystem
 
-         Book rooms for specific time slots.
+Manages hotel reservations, room availability, and pricing.
 
-3.Check Available Rooms:
+### Room
 
-         View a list of rooms available for a given time range.
+Handles room-related information and operations.
 
-4.Get Room Details:
+### Guest
 
-         Retrieve guest details, such as name and phone number, for a specific room.
+Stores and retrieves guest information.
 
-5.Calculate Room Prices:
+### Booking
 
-         Automatically compute the total price for a stay based on its duration.
-
-6.Free Rooms:
-
-         Mark rooms as free when guests check out.
-
-7.View Price List:
-
-         Display the current pricing for various time durations.
+Manages booking operations and pricing.
